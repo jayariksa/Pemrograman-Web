@@ -1,48 +1,58 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MotoGP Mandalika</title>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>MotoGP Mandalika</title>
 
-</head>
+    </head>
 
 
-<body>
-    <h1>MotoGP Mandalika 2022 Dimulai Tanpa Mark Marquez</h1>
-    <p><b>MotoGP Pertamina Grand Pix of Indonesia</b> berlangsung pada 18-20 Maret 2022 di sirkuit Mandalika, Lombok, Nusa Tenggara Barat (NTB).
-    Hujan deras sempat turun pukul 13:00 WIB, sesaat sebelum dimulainya ajang balap MotoGP pada pukul 14:00 WIB.
-    Sebelum balapan digelar, <i>safety car</i> mengelilingi sirkuit dan panitia mengumumkan adanya perubahan jadwal start menjadi 14.10 WIB.
-    Setelah diundur beberapa kali, MotoGP Mandalika 2022 akhirnya dimulai 15.15 WIB.
-    Bersamaan dengan turunnya hujan, panitia mengumumkan bahwa Marc Marquez terpaksa absen di balapan MotoGP Mandalika 2022 karena tidak fit usai kecelakaan saat pemanansan.</p>
+    <body>
+        <h1>MotoGP Mandalika 2022 Dimulai Tanpa Mark Marquez</h1>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0qkKjoVa-zbxO0tO8oGkGBuJ0GOC-P-Vhg&usqp=CAU" alt="MotoGP Mandalika"
+        width="500"
+        height="280" />
+        <p><b>MotoGP Pertamina Grand Pix of Indonesia</b> berlangsung pada 18-20 Maret 2022 di sirkuit Mandalika, Lombok, Nusa Tenggara Barat (NTB).
+        Hujan deras sempat turun pukul 13:00 WIB, sesaat sebelum dimulainya ajang balap MotoGP pada pukul 14:00 WIB.
+        Sebelum balapan digelar, <i>safety car</i> mengelilingi sirkuit dan panitia mengumumkan adanya perubahan jadwal start menjadi 14.10 WIB.
+        Setelah diundur beberapa kali, MotoGP Mandalika 2022 akhirnya dimulai 15.15 WIB.
+        Bersamaan dengan turunnya hujan, panitia mengumumkan bahwa Marc Marquez terpaksa absen di balapan MotoGP Mandalika 2022 karena tidak fit usai kecelakaan saat pemanansan.</p>
 
-    <h2>Marc Marquez Kecelakaan</h2>
-    <p><b>Marc Marquez</b> telah kembali ke Sirkuit Mandalika, Lombok, Nusa Tenggara Barat, Minggu (20/3/2022). Kabar yang didapat Liputan6.com, pembalap Repsol Honda itu kini sedang istirahat di ruangannya.
-    Seperti diberitakan sebelumnya, Marquez mengalami kecelakaan berat saat sesi pemanasan MotoGP Mandalika.
-    Dia terlempar dari motornya di tikungan ketujuh.
-    Marquez terlihat masih bisa berjalan normal usai kecelakaan. Dia kemudian dibawa ke ruangan para pembalap MotoGP dan langsung dijemput tim medis.
-    Pembalap asal Spanyol itu sempat dibawa ke Rumah Sakit Matraman untuk menjalani pemeriksaan.
-    Usai kembali ke sirkuit, tangan kanan Marquez terlihat diperban.</p>
+        <h2>Marc Marquez Kecelakaan</h2>
+        <img src="https://img.okezone.com/content/2022/03/19/38/2564234/kecelakaan-parah-di-latihan-bebas-2-motogp-mandalika-2022-marc-marquez-kritik-sirkuit-mandalika-F8pTcY0zIT.jpg" alt="Kecelakaan Mark Marquez"
+        width="500"
+        height="280" />
+        <p><b>Marc Marquez</b> telah kembali ke Sirkuit Mandalika, Lombok, Nusa Tenggara Barat, Minggu (20/3/2022). Kabar yang didapat Liputan6.com, pembalap Repsol Honda itu kini sedang istirahat di ruangannya.
+        Seperti diberitakan sebelumnya, Marquez mengalami kecelakaan berat saat sesi pemanasan MotoGP Mandalika.
+        Dia terlempar dari motornya di tikungan ketujuh.
+        Marquez terlihat masih bisa berjalan normal usai kecelakaan. Dia kemudian dibawa ke ruangan para pembalap MotoGP dan langsung dijemput tim medis.
+        Pembalap asal Spanyol itu sempat dibawa ke Rumah Sakit Matraman untuk menjalani pemeriksaan.
+        Usai kembali ke sirkuit, tangan kanan Marquez terlihat diperban.</p>
+        
+        <h2>Aksi Pawang Hujan</h2>
+        <img src="https://akcdn.detik.net.id/visual/2022/03/20/pawang-hujan-di-motogp-mandalika_169.mpo?w=650" alt="Pawang Hujan Mandalika MotoGP"
+        width="500"
+        height="280" />
+        <p>Hujan lebat mengguyur Sirkuit Mandalika jelang dimulainya balapan MotoGP Pertamina Grand Prix of Indonesia, Minggu (20/3/2022)
+        Di tengah hujan, pawang hujan yang dikenal sebagai Mba Rara muncul di jalur pitstop dan memasuki tengah sirkuit.
+        Aksinya mengundang perhatian penonton dan juga para pembalap yang menunggu hujan reda.
+        Terlihat wanita bernama lengkap Rara Istiati Wulandari ini melakukan ritual untuk menyetop hujan deras.
+        Cuaca pada saat <i>free practice</i> MotoGP Jumat 18 Maret, dan kualifikasi 19 Maret 2022 juga bisa dibilang sulit ditebak.
+        Hujan besar lalu berganti menjadi panas terik bisa terjadi.</p>
+
+        <p>Rara sempat melakukan ritual di sirkuit Mandalika untuk menolak hujan pada Minggu pagi.
+        Ia juga sering mejadi pawang hujan pada acara kenegaraan.
+        "Pawang hujan memang identik mengusir hujan atau memindahkan hujan.
+        Padahal kadang kita perlu hujan juga supaya trek dingin, tidak panas.
+        Udaranya ini kan enak sekali panas, mendung tidak selalu panas dan tidak hujan memang hujan," ungkap Koordinator Sirkuit Mandalika dari MGPA, Denny Pribadi.
+        </p>
     
-    <h2>Aksi Pawang Hujan</h2>
-    <p>Hujan lebat mengguyur Sirkuit Mandalika jelang dimulainya balapan MotoGP Pertamina Grand Prix of Indonesia, Minggu (20/3/2022)
-    Di tengah hujan, pawang hujan yang dikenal sebagai Mba Rara muncul di jalur pitstop dan memasuki tengah sirkuit.
-    Aksinya mengundang perhatian penonton dan juga para pembalap yang menunggu hujan reda.
-    Terlihat wanita bernama lengkap Rara Istiati Wulandari ini melakukan ritual untuk menyetop hujan deras.
-    Cuaca pada saat <i>free practice</i> MotoGP Jumat 18 Maret, dan kualifikasi 19 Maret 2022 juga bisa dibilang sulit ditebak.
-    Hujan besar lalu berganti menjadi panas terik bisa terjadi.</p>
 
-    <p>Rara sempat melakukan ritual di sirkuit Mandalika untuk menolak hujan pada Minggu pagi.
-    Ia juga sering mejadi pawang hujan pada acara kenegaraan.
-    "Pawang hujan memang identik mengusir hujan atau memindahkan hujan.
-    Padahal kadang kita perlu hujan juga supaya trek dingin, tidak panas.
-    Udaranya ini kan enak sekali panas, mendung tidak selalu panas dan tidak hujan memang hujan," ungkap Koordinator Sirkuit Mandalika dari MGPA, Denny Pribadi.
-    </p>
+
+        
+        
+    </body>
+    </html>
    
-
-
-    
-    
-</body>
-</html>
